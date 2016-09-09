@@ -10,6 +10,7 @@ public class Main{
         user1   =   JOptionPane.showInputDialog(null, "Ange namn för spelare 1.");
         user2   =   JOptionPane.showInputDialog(null, "Ange namn för spelare 2.");
 
+        /*Detta är lite svårt*/
 
     }
 
